@@ -27,3 +27,4 @@ erl_crash.dump
 
 # Also ignore temp files created during testing
 **/test/tmp
+apps/language_server/lib/language_server/providers/formatting.ex
